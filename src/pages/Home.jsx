@@ -1,3 +1,9 @@
+/**
+* Membaut Var
+* @constant {HTMLElement}
+*/
+
+
 import React, { useState, useEffect } from 'react'
 import { Loader, Card, FormField } from "../components"
 
